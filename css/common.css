@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body, html{
+    width: 100%;
+    height: 100%;
+    font-family: 'admedi', sans-serif;
+}
+ul, li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: #000;
+}
+img{
+    border: none;
+}
+h1, h2, h3, h4, h5, h6, a, span, input, label, p, button{
+	  margin: 0;
+		padding: 0;
+    font-weight: 400;
+		font-family: 'Pangolin', cursive;
+		letter-spacing: 1px;
+		text-align: center;
+		color: #003659;
+}
+input{
+	text-align: inherit;;
+}
