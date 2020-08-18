@@ -15,10 +15,10 @@ input{display: block; margin: 0 auto; border-radius: 10px; outline: none; border
 .showing{display: block;}
 
 .greeting-box{position: absolute; top: 45%; left: 0; width: 100%; height: 150px;}
-.greetings{text-align: center; color: #2c4d63; font-size: 60px; line-height: 100px;}
+.greetings{text-align: center; color: #ffffff; font-size: 60px; line-height: 100px;}
 button{display: block; padding: 2px 15px; background-color: transparent; border: 2px solid #2c4d63; border-radius: 10px; text-align: center; color: #ffffff; margin: 0 auto; font-size: 1.1rem; line-height: 30px; cursor: pointer;}
 /* button{margin: 0 auto;    height: 30px; line-height: 24px;} */
-button:hover{background-color: #fffff; color: #444444; transition: 0.4s;}
+button:hover{background-color: #ffffff; color: #444444; transition: 0.4s;}
 @keyframes fadeIn {
 	from{opacity: 0;}
 	to{opacity: 1;}
