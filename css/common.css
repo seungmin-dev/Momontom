@@ -27,5 +27,6 @@ h1, h2, h3, h4, h5, h6, a, span, input, label, p, button{
 		color: #ffffff;
 }
 input{
-	text-align: inherit;;
+	text-align: inherit;
+	color: #444444;
 }
