@@ -35,4 +35,4 @@ button:hover{background-color: #fffff; color: #444444; transition: 0.4s;}
 .right li button{opacity: 0; border: none; line-height: 40px; padding: 0 10px;}
 .right li:hover button{opacity: 1; transition: 0.4s; background-color: transparent; }
 
-.bgImage{display: block; width: 105%; height: auto; position: absolute; top: 0; left: 0; z-index: -1; animation: fadeIn 0.5s linear;}
+.bgImage{display: block; width: 100%; height: auto; position: absolute; top: 0; left: 0; z-index: -1; animation: fadeIn 0.5s linear;}
